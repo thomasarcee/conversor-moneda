@@ -1,0 +1,9 @@
+.idea/
+out/
+*.iml
+
+# Local configuration
+local.properties
+
+# Optional manual libraries folder
+lib/
